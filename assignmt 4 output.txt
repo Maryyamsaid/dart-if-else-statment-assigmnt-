@@ -1,0 +1,56 @@
+program 5.1: write a  that input marks and display  you are pass id marks >40
+enter marks 3
+youre fail
+
+ enter number1=5
+enter number2=7
+numbers1 is not equal to number2
+
+program 5.3: write a program that input two number and find the second number is the square of 1st number
+enter number1=4
+enter number=5
+2nd num is not the qsuare of number2
+
+program 5.4: that input marks of 3 subject and display you are above standard if average is >80
+enter english marks6
+enter math marks7
+enter science marks8
+admision cancel
+
+program5.5 that dispaly max number from 3 numbers
+enter 1st number=5
+enter 2st number=7
+enter 3rd number=8
+the maxixm numer is 8
+
+program5.6: take a number and determine weather it is positive or negative or 0
+enter any number to find +iv or _ve =9
+the number is positive=
+number is nagative= 9
+
+program:5.7 write a program that input 3 digits and find small and large
+enter 1st digit =9
+enter 2st digit=0
+enter 3rd digit=7
+largest digit is =9
+smallest number is =0
+
+program 5.8: write a program that input number and display even or old using if - else
+kindly enter any number to find even or odd =8
+the number 8 is even
+
+program 5.9: write a program that input year and find its leap year or not using if - else
+kindly enter any year to find its leap or not =9
+9 is not a leap year.
+
+program 5.10: write a program that input salary add 25% bouns and display total salary using if - else
+kindly enter basic salary =7
+kindly enter grade =3
+your new salary is 8.75
+
+program 5.11: write a program that input two integer and determine 1st number id multiple of 2nd using if - else
+kindly enter any 1 digit =8
+kindly enter any 2 digit =9
+the 8.0 digit is  not multiple of 9.0
+Press any key to continue . . .
+
